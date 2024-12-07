@@ -1,0 +1,46 @@
+
+Student 1: Menna Mohammed Abdelbaset
+Student 2: Sara Bisheer Fikry
+
+Q1:
+
+Write your answer here
+Vocabulary size
+
+
+Q2:
+
+Write Your answer here
+Embedding size
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Type Yes or No
+Yes
+
+
+Q4:
+
+Type Yes or No. and the reason for your answer.
+Yes as it is close to 1 
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Type Yes or No
+
+
+Q6:
+
+Type your answer here
+
