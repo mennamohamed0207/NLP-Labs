@@ -38,9 +38,16 @@ Computed Accuracy:
 Q5:
 
 Type Yes or No
+Yes
 
 
 Q6:
 
 Type your answer here
+there is nearly three categories of words and their embeddings are clustered in the plot in 3 cluster
+1 - the first is (village, town, city, country, continent) which are areas but with different sizes so it is meaningful to be near each other
+2 - the second is (oil, gas, petroleum) which are diffferent types of energy resources so it is meaningful to be near each other
+3 - the third is (happy, joyful, sad) which are emotions so it is meaningful to be near each other
+
+
 
