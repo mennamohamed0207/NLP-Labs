@@ -21,8 +21,8 @@ def get_params(vocab, tag_map, sentences_file, labels_file):
             # replace each token by its index if it is in vocab
             # else use index of UNK_WORD
             s = [vocab[token] if token in vocab 
-                 else vocab['UNK']
-                 for token in sentence.split(' ')]
+                else vocab['UNK']
+                for token in sentence.split(' ')]
             sentences.append(s)
 
     with open(labels_file) as f:
